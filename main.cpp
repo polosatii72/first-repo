@@ -1,1 +1,1 @@
-main function
+int main() {}
